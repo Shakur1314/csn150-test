@@ -5,3 +5,10 @@ This is just a test
 ** This is Bold **
 ### smaller test
 * *italic* *
+~~test for warning~~
+> This is a quote
+...
+This is some code
+ More functions()
+ Function(){yea
+ }
